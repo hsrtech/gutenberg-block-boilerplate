@@ -1,0 +1,1 @@
+import './boilerplate-block/boilerplate_block';
